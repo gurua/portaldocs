@@ -1,7 +1,7 @@
 * [Home](#home)
 * [Extension Developer Resources](#extension-developer-resources)
 * [Marketplace/Gallery Developer Resources](#marketplace-gallery-developer-resources)
-
+  
 
  <h1 name="portalfx"></h1>
  
